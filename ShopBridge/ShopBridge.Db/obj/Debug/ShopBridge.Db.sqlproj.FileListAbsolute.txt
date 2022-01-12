@@ -1,0 +1,6 @@
+C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\bin\Debug\ShopBridge.Db.dacpac
+C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\bin\Debug\ShopBridge.Db.dll
+C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\bin\Debug\ShopBridge.Db.pdb
+C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\obj\Debug\ShopBridge.Db.sqlproj.AssemblyReference.cache
+C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\obj\Debug\ShopBridge.Db.dll
+C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\obj\Debug\ShopBridge.Db.pdb

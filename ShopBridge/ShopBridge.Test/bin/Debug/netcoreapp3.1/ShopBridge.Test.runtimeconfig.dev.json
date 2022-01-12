@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ChatteSu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ChatteSu\\.nuget\\packages"
+    ]
+  }
+}

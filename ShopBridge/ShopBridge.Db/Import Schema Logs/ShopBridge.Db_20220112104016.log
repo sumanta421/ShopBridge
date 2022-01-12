@@ -1,0 +1,10 @@
+1/12/2022 4:10:16 PM	This log contains information about the import schema operation into project 'ShopBridge.Db' on computer 'FINLHYDAG735327' by user 'ChatteSu'.
+1/12/2022 4:10:17 PM	Deserializing model
+1/12/2022 4:10:17 PM	Resolving model
+1/12/2022 4:10:18 PM	Visiting imported model for types
+1/12/2022 4:10:19 PM	Scanning project for duplicate elements
+1/12/2022 4:10:19 PM	Finished duplicate element processing
+1/12/2022 4:10:21 PM	Processing extra files
+1/12/2022 4:10:21 PM	Finished importing Data-tier Application file.
+1/12/2022 4:10:21 PM	A summary of the import was saved to the following location: C:\Users\ChatteSu\source\repos\ShopBridge\ShopBridge.Db\Import Schema Logs\ShopBridge.Db_20220112104016.log
+1/12/2022 4:10:21 PM	Click Finish to continue...
